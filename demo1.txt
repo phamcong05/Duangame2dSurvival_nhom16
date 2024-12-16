@@ -1,0 +1,3 @@
+Thay doi su dung git diff cho file 05
+toi dang o vi tri nhanh con
+toi se cap nhat nhanh con
